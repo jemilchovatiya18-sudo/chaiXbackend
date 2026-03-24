@@ -1,0 +1,17 @@
+{
+  "name": "chaixproject",
+  "version": "1.0.0",
+  "description": "a Backend with Chai",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "jemil",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
